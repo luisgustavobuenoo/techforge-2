@@ -23,7 +23,7 @@ Entrega e Apresentação:
 Vou preparar a documentação final e a apresentação do meu projeto, garantindo que todas as minhas entregas estejam de acordo com os prazos estabelecidos.
 Avaliação Final:
 
-Vou realizar uma avaliação final para identificar qualquer área adicional de melhoria e planejar as minhas próximas etapas de desenvolvimento.
+irei realizar uma avaliação final para identificar qualquer área adicional de melhoria e planejar as minhas próximas etapas de desenvolvimento.
 
 
 
